@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crm.Application", "Crm.Appl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crm.WebApi", "Crm.WebApi\Crm.WebApi.csproj", "{6931E1DF-52C6-4EF5-AD19-DCCE9D9DFCB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crn.Infrastructure", "Crn.Infrastructure\Crn.Infrastructure.csproj", "{AD55C08A-34C8-4739-9A6F-35E870AD68C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crm.Infrastructure", "Crn.Infrastructure\Crm.Infrastructure.csproj", "{AD55C08A-34C8-4739-9A6F-35E870AD68C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
